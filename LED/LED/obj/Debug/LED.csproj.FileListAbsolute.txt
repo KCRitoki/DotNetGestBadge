@@ -1,0 +1,9 @@
+C:\Users\jeanf\source\repos\LED\LED\bin\Debug\LED.exe
+C:\Users\jeanf\source\repos\LED\LED\bin\Debug\LED.pdb
+C:\Users\jeanf\source\repos\LED\LED\obj\Debug\LED.csproj.AssemblyReference.cache
+C:\Users\jeanf\source\repos\LED\LED\obj\Debug\LED.FrmLed.resources
+C:\Users\jeanf\source\repos\LED\LED\obj\Debug\LED.Properties.Resources.resources
+C:\Users\jeanf\source\repos\LED\LED\obj\Debug\LED.csproj.GenerateResource.cache
+C:\Users\jeanf\source\repos\LED\LED\obj\Debug\LED.csproj.CoreCompileInputs.cache
+C:\Users\jeanf\source\repos\LED\LED\obj\Debug\LED.exe
+C:\Users\jeanf\source\repos\LED\LED\obj\Debug\LED.pdb
