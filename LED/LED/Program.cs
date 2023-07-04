@@ -15,7 +15,7 @@ namespace LED
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new FrmLed());
+            Application.Run(new frmLed());
         }
     }
 }

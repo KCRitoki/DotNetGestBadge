@@ -7,3 +7,5 @@ C:\Users\jeanf\source\repos\LED\LED\obj\Debug\LED.csproj.GenerateResource.cache
 C:\Users\jeanf\source\repos\LED\LED\obj\Debug\LED.csproj.CoreCompileInputs.cache
 C:\Users\jeanf\source\repos\LED\LED\obj\Debug\LED.exe
 C:\Users\jeanf\source\repos\LED\LED\obj\Debug\LED.pdb
+C:\Users\onlyt\workspace\dotnet_project\DotNetGestBadge\LED\LED\obj\Debug\LED.exe
+C:\Users\onlyt\workspace\dotnet_project\DotNetGestBadge\LED\LED\obj\Debug\LED.pdb
